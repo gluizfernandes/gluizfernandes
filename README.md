@@ -1,6 +1,6 @@
 # George Fernandes
 
-**AI Data Engineer** · Belford Roxo, RJ
+**AI Data Engineer**
 
 Atuo na interseção entre engenharia de dados e inteligência artificial — pipelines, sistemas multi-agente e RAG no mercado brasileiro. +5 anos em setores de alta complexidade: Saúde Corporativa, Logística, Oil & Gas e Varejo.
 
